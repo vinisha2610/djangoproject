@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.python-version
+.venv/
+env/
+venv/
+# Django
+db.sqlite3
+*.log
+*.pot
+staticfiles/
+# VSCode / Codespaces
+.vscode/
+.devcontainer/
